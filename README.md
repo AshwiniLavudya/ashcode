@@ -1,1 +1,3 @@
 ﻿# House_Price_Prediction_Using-ANN
+
+House price prediction is crucial for making informed investment decisions, understanding market trends, and managing financial risks. It helps investors, homeowners, and real estate professionals navigate price fluctuations, while also aiding urban planners and governments in making data-driven decisions about infrastructure and housing policies. Accurate predictions allow individuals to plan their finances effectively, determine the right time to buy or sell, and assess future property values. Overall, house price prediction plays a key role in ensuring smarter, more strategic decision-making across various sectors
